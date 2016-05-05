@@ -3,6 +3,8 @@
 	_ext_Position_y Integer {ee57e328-897e-4d47-89c4-866eb1c57c6d} {dd24cb1d-5b3c-43cf-841c-dc5119fd03ac}. I_0
 	annotations StatementItemList {fb8559b6-d181-4666-998f-e28721c9f04a} {dd24cb1d-5b3c-43cf-841c-dc5119fd03ac}
 	classes TypedListOfClass {0e86364c-b616-42e6-bf84-5a09e95e85f4} {dd24cb1d-5b3c-43cf-841c-dc5119fd03ac}
+		0 persistencenewunit {868a00cb-ee5a-4ce6-9207-c439a58018d4} {0e86364c-b616-42e6-bf84-5a09e95e85f4}. S_foo/C {868a00cb-ee5a-4ce6-9207-c439a58018d4}
+		1 persistencenewunit {1f1116b6-1eee-484f-a56e-a81fd76f14fe} {0e86364c-b616-42e6-bf84-5a09e95e85f4}. S_foo/A {1f1116b6-1eee-484f-a56e-a81fd76f14fe}
 	fields TypedListOfField {b9cadfbb-fb2c-40ec-ab8d-6422d43d3fc6} {dd24cb1d-5b3c-43cf-841c-dc5119fd03ac}
 	libraries TypedListOfUsedLibrary {be10c54f-1096-43e3-b946-5105d67c3548} {dd24cb1d-5b3c-43cf-841c-dc5119fd03ac}
 	metaCalls TypedListOfExpression {7aeba89d-2b5f-4cf1-b665-e033ba30d605} {dd24cb1d-5b3c-43cf-841c-dc5119fd03ac}

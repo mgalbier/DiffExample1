@@ -1,8 +1,6 @@
 DiffExample1 Project {03c8550b-55a6-49fb-a7b4-34a5dc11c83d} {00000000-0000-0000-0000-000000000000}
 	annotations StatementItemList {945e1767-128f-4a6d-9481-051357c87f97} {03c8550b-55a6-49fb-a7b4-34a5dc11c83d}
 	classes TypedListOfClass {5456670e-4948-4d9c-96eb-2ae1f2ff2ff0} {03c8550b-55a6-49fb-a7b4-34a5dc11c83d}
-		0 persistencenewunit {1f1116b6-1eee-484f-a56e-a81fd76f14fe} {5456670e-4948-4d9c-96eb-2ae1f2ff2ff0}. S_A {1f1116b6-1eee-484f-a56e-a81fd76f14fe}
-		1 persistencenewunit {29e3a906-16e8-4e8b-a8fd-5508925ecfd5} {5456670e-4948-4d9c-96eb-2ae1f2ff2ff0}. S_B {29e3a906-16e8-4e8b-a8fd-5508925ecfd5}
 	fields TypedListOfField {c87b21e7-948d-41e5-9466-0929e53783ff} {03c8550b-55a6-49fb-a7b4-34a5dc11c83d}
 	libraries TypedListOfUsedLibrary {d6bfa89a-5c7e-4230-9e83-3ba7a4134ec7} {03c8550b-55a6-49fb-a7b4-34a5dc11c83d}
 	metaCalls TypedListOfExpression {e4b13c2d-ffcb-40c8-a1e6-98ccc2975399} {03c8550b-55a6-49fb-a7b4-34a5dc11c83d}
