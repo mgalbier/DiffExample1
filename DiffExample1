@@ -1,0 +1,15 @@
+DiffExample1 Project {03c8550b-55a6-49fb-a7b4-34a5dc11c83d} {00000000-0000-0000-0000-000000000000}
+	annotations StatementItemList {945e1767-128f-4a6d-9481-051357c87f97} {03c8550b-55a6-49fb-a7b4-34a5dc11c83d}
+	classes TypedListOfClass {5456670e-4948-4d9c-96eb-2ae1f2ff2ff0} {03c8550b-55a6-49fb-a7b4-34a5dc11c83d}
+		0 persistencenewunit {1f1116b6-1eee-484f-a56e-a81fd76f14fe} {5456670e-4948-4d9c-96eb-2ae1f2ff2ff0}. S_A {1f1116b6-1eee-484f-a56e-a81fd76f14fe}
+		1 persistencenewunit {29e3a906-16e8-4e8b-a8fd-5508925ecfd5} {5456670e-4948-4d9c-96eb-2ae1f2ff2ff0}. S_B {29e3a906-16e8-4e8b-a8fd-5508925ecfd5}
+	fields TypedListOfField {c87b21e7-948d-41e5-9466-0929e53783ff} {03c8550b-55a6-49fb-a7b4-34a5dc11c83d}
+	libraries TypedListOfUsedLibrary {d6bfa89a-5c7e-4230-9e83-3ba7a4134ec7} {03c8550b-55a6-49fb-a7b4-34a5dc11c83d}
+	metaCalls TypedListOfExpression {e4b13c2d-ffcb-40c8-a1e6-98ccc2975399} {03c8550b-55a6-49fb-a7b4-34a5dc11c83d}
+	methods TypedListOfMethod {143e7910-7f6a-4d73-a616-400b5044bdff} {03c8550b-55a6-49fb-a7b4-34a5dc11c83d}
+	modifiers Modifier {2053bf2a-4eec-40e0-aeb8-2d74e4ab4f9e} {03c8550b-55a6-49fb-a7b4-34a5dc11c83d}. I_0
+	modules TypedListOfModule {357ec4b2-905e-40e2-8730-a7fe5cb8c0b4} {03c8550b-55a6-49fb-a7b4-34a5dc11c83d}
+		0 persistencenewunit {dd24cb1d-5b3c-43cf-841c-dc5119fd03ac} {357ec4b2-905e-40e2-8730-a7fe5cb8c0b4}. S_foo {dd24cb1d-5b3c-43cf-841c-dc5119fd03ac}
+	name NameText {86cf3e93-0b90-444e-8b6c-533f2c034f8c} {03c8550b-55a6-49fb-a7b4-34a5dc11c83d}. S_DiffExample1
+	projects TypedListOfProject {6d5d26ab-d747-4804-97bf-f5bb303a9eec} {03c8550b-55a6-49fb-a7b4-34a5dc11c83d}
+	subDeclarations TypedListOfDeclaration {06020fb1-009c-4d3c-971c-d90a4cc09d82} {03c8550b-55a6-49fb-a7b4-34a5dc11c83d}

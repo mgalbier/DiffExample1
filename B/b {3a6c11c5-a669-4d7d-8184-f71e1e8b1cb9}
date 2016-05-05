@@ -1,0 +1,29 @@
+0 Method {3a6c11c5-a669-4d7d-8184-f71e1e8b1cb9} {1c723454-a315-43d8-84b1-360fac7e0db4}
+	_ext_Position_x Integer {2b64f337-7b0b-44c3-b8d7-430741fc27b9} {3a6c11c5-a669-4d7d-8184-f71e1e8b1cb9}. I_0
+	_ext_Position_y Integer {9797e425-063f-406b-b8bd-0d4a3d691627} {3a6c11c5-a669-4d7d-8184-f71e1e8b1cb9}. I_3
+	annotations StatementItemList {c1725b88-e953-4598-bfff-76f882ae6afc} {3a6c11c5-a669-4d7d-8184-f71e1e8b1cb9}
+	arguments TypedListOfFormalArgument {353ba205-f595-4337-8d74-3c9e41a5f8b5} {3a6c11c5-a669-4d7d-8184-f71e1e8b1cb9}
+	items StatementItemList {e724a5cd-6a18-4d03-935d-eb26d4ab5a6c} {3a6c11c5-a669-4d7d-8184-f71e1e8b1cb9}
+		0 ReturnStatement {63739d91-3e53-4341-9782-f223a27c51b4} {e724a5cd-6a18-4d03-935d-eb26d4ab5a6c}
+			values TypedListOfExpression {37542597-8683-46a6-a853-90a91935f132} {63739d91-3e53-4341-9782-f223a27c51b4}
+				0 BinaryOperation {11fe8111-d74d-4959-95ae-d6cb6e59292f} {37542597-8683-46a6-a853-90a91935f132}
+					left ReferenceExpression {e392fda2-0695-49f2-bcf6-77793df9d548} {11fe8111-d74d-4959-95ae-d6cb6e59292f}
+						memKind Integer {db8db91e-df64-4108-a03d-260758227f36} {e392fda2-0695-49f2-bcf6-77793df9d548}. I_0
+						prefix ThisExpression {18b2f51a-8056-48bd-a129-528651d85622} {e392fda2-0695-49f2-bcf6-77793df9d548}
+						ref OOReference {64d42826-7863-4584-95c0-9c3af2053412} {e392fda2-0695-49f2-bcf6-77793df9d548}. S_____NULL____:x
+						typeArguments TypedListOfExpression {07b570f5-f54b-478c-a623-a829adb5de68} {e392fda2-0695-49f2-bcf6-77793df9d548}
+					opr Integer {4b9cc122-d845-4b88-a488-f01c20e5600c} {11fe8111-d74d-4959-95ae-d6cb6e59292f}. I_0
+					right ReferenceExpression {940ca5c6-e314-44cd-ac1e-941e884acc77} {11fe8111-d74d-4959-95ae-d6cb6e59292f}
+						memKind Integer {b783822b-baab-49fa-b664-4fc95c2173f1} {940ca5c6-e314-44cd-ac1e-941e884acc77}. I_0
+						prefix ThisExpression {8ec585dc-da58-4569-a301-e758a7214374} {940ca5c6-e314-44cd-ac1e-941e884acc77}
+						ref OOReference {a78cced2-f401-494d-840b-ca23a628e18d} {940ca5c6-e314-44cd-ac1e-941e884acc77}. S_____NULL____:y
+						typeArguments TypedListOfExpression {b8af9951-76ab-4b3b-820d-b80d1943d5ce} {940ca5c6-e314-44cd-ac1e-941e884acc77}
+	memberInitializers TypedListOfMemberInitializer {6e3c1890-229b-46a9-b9fc-17e8745015c0} {3a6c11c5-a669-4d7d-8184-f71e1e8b1cb9}
+	metaCalls TypedListOfExpression {d02a6547-a890-48c4-ab23-ce3f6d341fc8} {3a6c11c5-a669-4d7d-8184-f71e1e8b1cb9}
+	modifiers Modifier {453a1bc1-e502-459b-a78d-5c6144cef562} {3a6c11c5-a669-4d7d-8184-f71e1e8b1cb9}. I_0
+	mthKind Integer {e984e866-01bd-442c-86c9-057b2b02cff2} {3a6c11c5-a669-4d7d-8184-f71e1e8b1cb9}. I_0
+	name NameText {1cf1183f-579a-42a2-9d51-f6bd7f536f19} {3a6c11c5-a669-4d7d-8184-f71e1e8b1cb9}. S_b
+	results TypedListOfFormalResult {266afd0c-d341-414d-8909-d2b1e3dc036f} {3a6c11c5-a669-4d7d-8184-f71e1e8b1cb9}
+	subDeclarations TypedListOfDeclaration {515637e6-954f-4725-95c8-aace773b8c1c} {3a6c11c5-a669-4d7d-8184-f71e1e8b1cb9}
+	throws TypedListOfExpression {755ae725-14c8-419c-95ec-c4efa65dbe00} {3a6c11c5-a669-4d7d-8184-f71e1e8b1cb9}
+	typeArguments TypedListOfFormalTypeArgument {6c504db9-f178-40f0-96ce-2ce249c7d510} {3a6c11c5-a669-4d7d-8184-f71e1e8b1cb9}
